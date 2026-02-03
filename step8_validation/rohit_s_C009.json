@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C009",
+  "candidate_name": "Rohit S",
+  "role": "Software Engineer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 3,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked three questions related to communication skills, but the depth of the questions and answers was basic, with no follow-up questions to delve deeper into the candidate's communication abilities.",
+      "rejection_reason": "communication skills poor"
+    }
+  ]
+}

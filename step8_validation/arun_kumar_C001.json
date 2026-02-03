@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C001",
+  "candidate_name": "Arun Kumar",
+  "role": "Backend Engineer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 4,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about Python fundamentals, including data types, time complexity analysis, stack implementation, and the difference between lists and tuples. However, the depth of the questions was mostly basic, with no follow-up questions to assess deeper knowledge or practical application. The candidate's answers were also at a basic level, indicating a lack of advanced Python knowledge.",
+      "rejection_reason": "poor python knowledge"
+    },
+    {
+      "topic_asked": true,
+      "num_questions": 2,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about advanced data structures and stacks, but the depth of discussion was basic and did not include implementation or practical usage.",
+      "rejection_reason": "weak in data structures"
+    }
+  ]
+}

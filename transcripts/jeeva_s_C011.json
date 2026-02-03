@@ -1,0 +1,107 @@
+{
+  "candidate_id": "C011",
+  "candidate_name": "Jeeva S",
+  "role": "Frontend Developer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, jeeva. welcome to the interview for the frontend developer role. how are you today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. happy to be here."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we start, i want to explain how this interview will go. we\u0092ll focus mainly on frontend technologies such as javascript, html, css, and modern ui frameworks. let\u0092s begin with your background. can you tell me about your experience as a frontend developer?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i have around two and a half years of experience working as a frontend developer. i mostly work with javascript, html, css, and basic react to build user interfaces."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good. let\u0092s start with javascript fundamentals. can you explain what a closure is?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "a closure is when an inner function can access variables from an outer function even after the outer function has finished executing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good explanation. can you give a simple example of where closures are useful?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "closures are useful in callbacks and event handlers, but i haven\u0092t used them extensively."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s fine. let\u0092s move to ui layout. can you explain the difference between flexbox and grid?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "flexbox is used for one-dimensional layouts, and grid is used for two-dimensional layouts."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good. how do you make a webpage responsive across different screen sizes?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually use media queries and responsive units like percentages and rem."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with any frontend frameworks?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "yes, i have worked with react for building components and handling basic state."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain how state works in react?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "state is used to manage data inside a component, and we can update it using hooks like usestate."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked on performance optimization on the frontend, such as reducing re-renders?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have basic knowledge, but i haven\u0092t done deep performance optimization."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. have you worked closely with backend systems or databases?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, my role is mostly limited to frontend development. i usually consume apis provided by backend teams."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "understood. just to confirm, do you write sql queries or work directly with databases in your role?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i don\u0092t work with databases or sql."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you for the interview."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, jeeva. it was nice speaking with you. we\u0092ll get back to you regarding the next steps."
+    }
+  ]
+}

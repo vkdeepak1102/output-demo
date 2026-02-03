@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C002",
+  "candidate_name": "Priya S",
+  "role": "Data Analyst",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 3,
+      "depth_level": "INTERMEDIATE",
+      "follow_up_present": true,
+      "validation_status": "SUPPORTED",
+      "justification": "The interviewer asked three questions directly related to SQL basics, including the difference between WHERE and HAVING clauses, how INNER JOIN works, and a practical example involving LEFT JOIN. The candidate's answers showed a basic understanding but struggled with the practical application, indicating that the rejection reason is supported by the interview evidence.",
+      "rejection_reason": "sql basics not clear"
+    },
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'communication not confident', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "communication not confident"
+    }
+  ]
+}

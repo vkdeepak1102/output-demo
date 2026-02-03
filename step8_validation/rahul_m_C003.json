@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C003",
+  "candidate_name": "Rahul M",
+  "role": "Full Stack Developer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 4,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about React knowledge, but the questions were mostly basic and did not delve into advanced topics or follow-ups to assess the depth of the candidate's understanding.",
+      "rejection_reason": "limited react knowledge"
+    },
+    {
+      "topic_asked": true,
+      "num_questions": 2,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "SUPPORTED",
+      "justification": "The interviewer asked about real-time or production-level projects and the candidate explicitly stated they had not worked on such projects, only demo applications and small practice projects. The follow-up question about a specific project further confirmed the lack of real project exposure.",
+      "rejection_reason": "no real project exposure"
+    }
+  ]
+}

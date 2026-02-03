@@ -1,0 +1,99 @@
+{
+  "candidate_id": "C007",
+  "candidate_name": "Karthik N",
+  "role": "Data Engineer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "hi karthik, good morning. thanks for joining the interview today. this round will focus on your experience with data engineering tools, especially python and apache spark. feel free to think aloud while answering."
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. sure, i\u0092ll do my best."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s start with your background. can you walk me through your current role and the kind of data pipelines you\u0092ve worked on?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i currently work as a data engineer. i mostly write python scripts for data processing and have some exposure to spark for handling large datasets."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "when you say exposure to spark, can you explain what apache spark is used for and why it\u0092s preferred over traditional processing tools?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "spark is a big data processing framework. it is faster compared to older tools because it works in memory."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s correct at a high level. can you explain how spark achieves this performance improvement?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i know it is faster, but i\u0092m not very clear on the internal working."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s okay. let\u0092s move into some practical concepts. can you explain the difference between spark transformations and actions?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have heard of transformations and actions, but i don\u0092t remember the difference clearly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you written any spark jobs using dataframes or rdds?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have used dataframes in a basic way, mostly following existing code."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you describe a scenario where you had to optimize a spark job for performance?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i haven\u0092t really optimized spark jobs myself. usually, i just run the jobs as they are."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. let\u0092s switch to python. how comfortable are you with writing complex python logic for data processing?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092m comfortable with basic python, like loops and functions, but i still struggle with advanced concepts."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with python libraries like pandas or pyspark in depth?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have used pandas for small datasets, but my pyspark usage is limited."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for being honest. do you have any experience with monitoring or debugging large data pipelines?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i haven\u0092t handled monitoring or debugging at that scale."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. that gives us a good understanding. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you for your time."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, karthik. it was nice speaking with you. we\u0092ll connect with you regarding the next steps."
+    }
+  ]
+}

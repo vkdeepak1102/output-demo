@@ -1,0 +1,34 @@
+{
+  "candidate_id": "C006",
+  "candidate_name": "Anjali T",
+  "role": "Backend Engineer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 3,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about REST API design, including error handling and HTTP methods, but the depth of discussion was basic and lacked follow-up questions to explore the candidate's understanding in more detail.",
+      "rejection_reason": "weak understanding of rest api design"
+    },
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'error handling', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "error handling"
+    },
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'backend service architecture', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "backend service architecture"
+    }
+  ]
+}

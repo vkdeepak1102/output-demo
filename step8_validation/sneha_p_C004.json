@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C004",
+  "candidate_name": "Sneha P",
+  "role": "E-commerce Analyst",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 3,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "SUPPORTED",
+      "justification": "The interviewer asked three questions directly related to the candidate's experience in the e-commerce domain. The depth of these questions was basic, focusing on direct experience and familiarity with e-commerce metrics. The candidate's answers indicated a lack of direct experience and familiarity with e-commerce-specific metrics and analyses, which supports the rejection reason.",
+      "rejection_reason": "less experience in e-commerce domain"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C008",
+  "candidate_name": "Meena L",
+  "role": "Business Analyst",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 4,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked four questions related to requirement analysis, but the depth of the questions and answers was basic, focusing on surface-level practices without delving into more complex or detailed aspects of requirement analysis. The candidate's responses indicated a lack of structured processes and techniques, which partially supports the rejection reason.",
+      "rejection_reason": "requirement analysis not strong"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "candidate_id": "C009",
+  "candidate_name": "Rohit S",
+  "role": "Software Engineer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "hi rohit, good morning. thanks for taking the time to speak with us today. this conversation will focus on your technical background as well as how you communicate your work and ideas. please feel free to explain things in your own words."
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. sure, i\u0092ll try my best."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s begin with your most recent project. can you walk me through what the project was about and your role in it?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i worked on an application where i was responsible for fixing bugs and adding some features."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you pick one feature you worked on and explain the problem it solved?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "it was related to a small change requested by the client. i don\u0092t remember the exact details now."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s okay. how did you understand the requirement for that feature?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "my team lead explained it to me, and i followed the instructions."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "suppose you had to explain this feature to a non-technical stakeholder. how would you describe it?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i would try to explain it simply, but i usually find it difficult to explain technical things clearly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you ever faced a situation where miscommunication caused an issue in a project?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "there were some misunderstandings sometimes, but the team usually handled it."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how do you usually communicate progress or blockers to your team?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i mostly update during meetings, but i don\u0092t go into much detail."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you give an example where you proactively communicated a risk or issue?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i can\u0092t recall a specific example right now."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for your honesty. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, rohit. we appreciate your time and will get back to you with next steps."
+    }
+  ]
+}

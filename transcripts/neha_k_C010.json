@@ -1,0 +1,107 @@
+{
+  "candidate_id": "C010",
+  "candidate_name": "Neha K",
+  "role": "Backend Engineer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, neha. thank you for joining us today. this interview will focus on your backend engineering experience, with particular emphasis on system design, scalability, and architectural thinking. please take your time while answering."
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. thank you. i\u0092ll do my best."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s begin with your background. can you briefly describe the kind of backend systems you have worked on so far?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have mainly worked on python-based backend applications. my work mostly involves writing apis and fixing bugs in existing systems."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good. let\u0092s move into system design. imagine you are asked to design a backend service for a simple order management system. how would you start?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i would first create apis to handle orders and store data in the database."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain how you would design the database schema for this system?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i haven\u0092t really designed database schemas myself. usually, the schema is already available."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. how would your system handle a sudden increase in traffic, for example during a sale?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092m not very sure. i think the server should be strong enough to handle it."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with concepts like horizontal scaling or load balancers?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have heard about load balancers, but i haven\u0092t used them in my projects."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how would you ensure data consistency if multiple users place orders at the same time?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092m not very clear on concurrency handling. i haven\u0092t dealt with that directly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s talk about caching. where would you use caching in a backend system and why?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i know caching improves performance, but i don\u0092t know exactly where to use it."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with any message queues or asynchronous processing systems?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i haven\u0092t worked with message queues."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. moving to error handling\u0097how do you design error responses in apis?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i use try-except blocks, but i don\u0092t follow a specific error response structure."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "finally, can you explain how you would monitor the health of a backend service in production?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i haven\u0092t monitored production systems myself."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for your answers, neha. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you for the discussion."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, neha. we\u0092ll reach out to you regarding the next steps."
+    }
+  ]
+}

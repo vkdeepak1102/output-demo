@@ -1,0 +1,103 @@
+{
+  "candidate_id": "C006",
+  "candidate_name": "Anjali T",
+  "role": "Backend Engineer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, anjali. welcome to the interview for the backend engineer role. how are you doing today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. happy to be here."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we begin, i\u0092ll give you a quick overview of the interview. we\u0092ll discuss your backend experience, python fundamentals, and some concepts related to api design and backend architecture. let\u0092s start with your background. can you tell me about your experience as a backend engineer?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i have around three years of experience working mainly with python. i\u0092ve worked on backend scripts and some apis, mostly handling feature updates and bug fixes."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good. let\u0092s start with apis. can you explain what a rest api is?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "a rest api is used to send and receive data between the frontend and backend using http methods."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you name some common http methods and their purposes?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "get is used to fetch data, post is used to send data, put is for updating, and delete is for removing data."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good. how do you design rest apis to handle errors properly?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually use try-except blocks to catch errors and return messages, but i haven\u0092t designed structured error responses."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with standard http status codes like 400, 401, or 500?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i know they exist, but i don\u0092t clearly remember what each one represents."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. let\u0092s talk about backend service architecture. have you designed any backend systems from scratch?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i usually work on existing codebases. i haven\u0092t been involved in system-level design or architecture discussions."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain how you would structure a backend service for scalability?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i don\u0092t have much experience with scalability. i mostly focus on writing the logic given to me."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with concepts like load balancing or caching?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have heard about them, but i haven\u0092t implemented them myself."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. how do you usually handle logging in backend applications?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i print logs for debugging, but i haven\u0092t worked much with centralized logging systems."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for your honest answers. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions right now. thank you for the interview."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, anjali. it was nice speaking with you. we\u0092ll let you know about the next steps."
+    },
+    {
+      "speaker": "candidate",
+      "text": "thank you. have a great day."
+    }
+  ]
+}

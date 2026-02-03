@@ -1,0 +1,103 @@
+{
+  "candidate_id": "C003",
+  "candidate_name": "Rahul M",
+  "role": "Full Stack Developer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, rahul. welcome to the interview for the full stack developer role. how are you today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. happy to be here."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we start, i\u0092d like to explain the structure of this interview. we\u0092ll discuss your background, frontend experience with react, backend exposure, and project experience. let\u0092s begin with your introduction. can you tell me about yourself and your technical background?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i recently completed my training in full stack development. i have worked mainly with javascript, react, and some basic backend technologies. i\u0092m still building my experience through practice projects."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s fine. let\u0092s talk about frontend development first. can you explain what react is and why it is used?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "react is a javascript library used to build user interfaces. it helps in creating reusable components and makes the ui faster."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good. can you explain the concept of components in react?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "components are reusable pieces of ui. we can create functional or class components."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how do you manage state in react?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have used usestate hook for managing state in components."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with more advanced state management solutions like redux or context api?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092ve heard about redux, but i haven\u0092t used it in my projects yet."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. let\u0092s move on to project experience. have you worked on any real-time or production-level projects?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "not really. i have mainly worked on demo applications and small practice projects during my course."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you describe one of those projects and your role in it?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i created a simple react application with a form and some basic validation. it was mostly for learning purposes."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "did you handle any backend integration or api calls in that project?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i made some basic api calls, but the backend was already available. i didn\u0092t design the backend myself."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. from a full stack perspective, how comfortable are you with backend concepts like databases or apis?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have basic knowledge, but i still need more hands-on experience."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for your honesty. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions at the moment. thank you for the interview."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, rahul. it was nice speaking with you. we\u0092ll get back to you regarding the next steps."
+    },
+    {
+      "speaker": "candidate",
+      "text": "thank you. have a great day."
+    }
+  ]
+}

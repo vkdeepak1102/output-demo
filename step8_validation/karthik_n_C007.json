@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C007",
+  "candidate_name": "Karthik N",
+  "role": "Data Engineer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 3,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about Spark concepts, but the depth of the questions and answers was basic, with no follow-up questions to probe deeper into the candidate's understanding.",
+      "rejection_reason": "spark concepts unclear"
+    },
+    {
+      "topic_asked": true,
+      "num_questions": 2,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about the candidate's comfort with complex Python logic and their experience with Python libraries like pandas and PySpark. The candidate admitted to struggling with advanced Python concepts and having limited experience with PySpark. However, the depth of the questions was basic, and there were no follow-up questions to delve deeper into the candidate's Python skills.",
+      "rejection_reason": "weak python"
+    }
+  ]
+}

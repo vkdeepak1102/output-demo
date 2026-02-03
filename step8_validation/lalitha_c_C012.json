@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C012",
+  "candidate_name": "Lalitha C",
+  "role": "Data Analyst",
+  "step_8_analysis": [
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'docker concepts not clear', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "docker concepts not clear"
+    }
+  ]
+}

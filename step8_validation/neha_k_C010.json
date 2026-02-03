@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C010",
+  "candidate_name": "Neha K",
+  "role": "Backend Engineer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 2,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "justification": "The interviewer asked about system design and database schema, but the candidate's responses were at a basic level and lacked depth. The candidate did not demonstrate a comprehensive understanding of system design principles or provide detailed explanations.",
+      "rejection_reason": "lacks system design understanding"
+    }
+  ]
+}

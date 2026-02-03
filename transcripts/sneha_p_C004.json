@@ -1,0 +1,103 @@
+{
+  "candidate_id": "C004",
+  "candidate_name": "Sneha P",
+  "role": "E-commerce Analyst",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, sneha. welcome to the interview for the e-commerce analyst role. how are you doing today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. i\u0092m happy to be here."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we begin, i\u0092d like to explain how today\u0092s interview will go. we\u0092ll talk about your background, your analytical skills, and your exposure to e-commerce data and metrics. let\u0092s start with a brief introduction. can you tell me about your experience?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i have around two years of experience working as an analyst. i mostly work with excel and basic sql to prepare reports and dashboards for internal teams."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good. have you worked specifically with e-commerce platforms or online sales data?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "not directly. my work has mostly been on internal operational data, not specifically e-commerce platforms."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "okay. let\u0092s talk about analytics. what excel functions do you commonly use in your day-to-day work?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i regularly use vlookup, if formulas, pivot tables, and some basic charts."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain how a pivot table helps in analysis?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "pivot tables help summarize large datasets and make it easier to analyze totals and trends."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good. now let\u0092s move to sql. can you explain a simple select query?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "select is used to fetch data from a table, and we can use where to filter the results."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you used joins in sql?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have basic knowledge of joins, but i don\u0092t use them very frequently."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "since this is an e-commerce analyst role, are you familiar with metrics like conversion rate, average order value, or cart abandonment?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have heard of these terms, but i haven\u0092t worked on analyzing them directly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain what conversion rate means in an e-commerce context?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "conversion rate is related to users buying products, but i don\u0092t know the exact calculation."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you ever analyzed customer journeys or sales funnels?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i haven\u0092t worked on funnel analysis yet."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. thank you for your honesty. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions at the moment. thank you for the opportunity."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, sneha. it was nice speaking with you. we\u0092ll get back to you with the next steps."
+    },
+    {
+      "speaker": "candidate",
+      "text": "thank you. have a great day."
+    }
+  ]
+}

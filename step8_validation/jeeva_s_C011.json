@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C011",
+  "candidate_name": "Jeeva S",
+  "role": "Frontend Developer",
+  "step_8_analysis": [
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'no knowledge in sql', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "no knowledge in sql"
+    },
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'unalble to write sql queries', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "unalble to write sql queries"
+    }
+  ]
+}

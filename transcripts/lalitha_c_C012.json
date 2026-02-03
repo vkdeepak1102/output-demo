@@ -1,0 +1,107 @@
+{
+  "candidate_id": "C012",
+  "candidate_name": "Lalitha C",
+  "role": "Data Analyst",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, lalitha. welcome to the interview for the data analyst role. how are you today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. happy to be here."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we begin, i\u0092d like to explain the structure of this interview. we\u0092ll focus on your experience with data analysis, sql, excel, and how you work with data to generate insights. let\u0092s start with your background. can you tell me about your experience as a data analyst?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i have around two years of experience working as a data analyst. my primary tools are sql and excel, and i mainly work on data extraction, cleaning, and reporting."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good. let\u0092s talk about sql. can you explain what the group by clause is used for?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "group by is used to group rows that have the same values and is mostly used with aggregate functions like count or sum."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you give an example of a situation where you would use group by?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "for example, if we want to find total sales per product or per region, we can use group by."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good. how comfortable are you with writing joins in sql?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092m comfortable with basic joins like inner join and left join, but i still need practice with more complex queries."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s move to data cleaning. how do you usually handle missing or incorrect data?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually identify missing values and either remove them or replace them based on the requirement. i also check for duplicate records."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "what tools do you use for data cleaning?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "mostly sql and excel. sometimes i use basic python scripts."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked on exploratory data analysis?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "yes, i do basic exploratory analysis to understand trends and patterns before creating reports."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how do you present your findings to business stakeholders?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually create dashboards or summary reports and explain the insights in simple terms."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you ever been involved in deployment, environment setup, or containerization of analytics applications?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i haven\u0092t worked on deployment or containerization."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "are you familiar with tools like docker?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092ve heard about docker, but i haven\u0092t used it in my work."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s fine. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you for the opportunity."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, lalitha. it was nice speaking with you. we\u0092ll get back to you with the next steps."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C013",
+  "candidate_name": "Anjali T",
+  "role": "UI/UX Designer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 4,
+      "depth_level": "INTERMEDIATE",
+      "follow_up_present": true,
+      "validation_status": "SUPPORTED",
+      "justification": "The interviewer asked about user research methods, analysis and synthesis of insights, the design process involving user research, and a detailed explanation of usability testing. The candidate provided detailed answers, indicating that the topic was thoroughly evaluated.",
+      "rejection_reason": "weak understanding of user research methods"
+    },
+    {
+      "topic_asked": false,
+      "num_questions": 0,
+      "depth_level": "BASIC",
+      "follow_up_present": false,
+      "validation_status": "NOT_SUPPORTED",
+      "justification": "L2 mentioned 'usability principles', but the L1 interview did not include any questions evaluating this topic.",
+      "rejection_reason": "usability principles"
+    }
+  ]
+}

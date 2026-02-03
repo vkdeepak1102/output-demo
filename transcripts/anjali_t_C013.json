@@ -1,0 +1,95 @@
+{
+  "candidate_id": "C013",
+  "candidate_name": "Anjali T",
+  "role": "UI/UX Designer",
+  "transcript": [
+    {
+      "speaker": "candidate",
+      "text": ""
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good morning, anjali. thank you for joining us today. this interview will focus on your experience in ui/ux design, particularly user research, usability principles, and design thinking. let\u0092s start with a brief introduction."
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. thank you for having me. i have around three years of experience working as a ui/ux designer, mainly focusing on user research and usability testing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "great. can you describe your typical design process when starting a new project?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually begin by understanding the problem statement and business goals. then i conduct user research through interviews or surveys, followed by wireframing and prototyping. after that, i perform usability testing and iterate on the designs."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that sounds good. let\u0092s talk more about user research. what methods have you used to understand user needs?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092ve used user interviews, online surveys, usability tests, and sometimes contextual inquiry depending on the project."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how do you analyze and synthesize insights from user research?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i group user feedback into themes, identify common pain points, and create user personas to represent key user groups."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain what usability testing is and how you conduct it?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "usability testing involves observing real users as they interact with a product to identify usability issues. i usually prepare tasks, observe user behavior, and collect feedback."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked with any design tools?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "yes, i regularly use tools like figma and adobe xd for wireframes and prototypes."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how do you ensure that your designs align with usability principles?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i follow principles like consistency, simplicity, accessibility, and user feedback. i also refer to established usability heuristics."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you give an example of a usability issue you discovered through testing and how you resolved it?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "in one project, users struggled to find a key action button. based on testing feedback, i repositioned it and improved its visibility, which improved task completion rates."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s a good example. do you collaborate with developers during implementation?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "yes, i work closely with developers to ensure designs are implemented correctly and address any feasibility concerns."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for sharing your experience. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you for the conversation."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, anjali. it was great speaking with you. we\u0092ll get back to you with the next steps."
+    }
+  ]
+}

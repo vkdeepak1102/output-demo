@@ -1,0 +1,95 @@
+{
+  "candidate_id": "C005",
+  "candidate_name": "Vikas R",
+  "role": "Python Developer",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, vikas. welcome to the interview for the python developer role. how are you today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. i appreciate the opportunity."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we begin, i\u0092d like to give you a quick overview of today\u0092s interview. we\u0092ll discuss your python experience, object-oriented programming concepts, and your general coding approach. let\u0092s start with your background. can you tell me about your experience working with python?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i have around three years of experience using python for scripting and small application development. i have mainly worked on automation scripts and backend utilities."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good. let\u0092s move into object-oriented programming. can you explain what oop is?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "oop stands for object oriented programming. it includes concepts like classes, objects, inheritance, encapsulation, and polymorphism."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain inheritance with a practical example?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "inheritance means one class can take properties from another class. i understand the definition, but i find it a bit difficult to explain real-life examples clearly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s okay. can you explain polymorphism?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "polymorphism means the same function name can behave differently."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how comfortable are you with designing classes for real-world problems?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually follow existing patterns, but i\u0092m not very confident in designing complex class structures from scratch."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s talk about exception handling. how do you handle errors in python?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "we use try and except blocks to catch exceptions."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you give an example of a custom exception you have created?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i haven\u0092t created custom exceptions yet. i mostly use built-in ones."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. do you have experience writing unit tests for your python code?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have limited experience with unit testing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for your responses. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions right now. thank you for your time."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, vikas. it was nice speaking with you. we\u0092ll get back to you with the next steps."
+    },
+    {
+      "speaker": "candidate",
+      "text": "thank you. have a good day."
+    }
+  ]
+}

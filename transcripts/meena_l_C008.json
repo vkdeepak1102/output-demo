@@ -1,0 +1,83 @@
+{
+  "candidate_id": "C008",
+  "candidate_name": "Meena L",
+  "role": "Business Analyst",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "good morning, meena. thanks for joining today. this interview will focus on your experience as a business analyst, especially around requirement gathering and stakeholder interaction. let\u0092s start with your background."
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i have about two years of experience working as a business analyst. i mainly support reporting activities and help teams with documentation when required."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you describe your typical day-to-day responsibilities in your current role?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually work on preparing reports, updating trackers, and coordinating with internal teams to collect information."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "when a new requirement comes in, how do you usually capture and document it?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "normally, i receive requirements through emails or meetings, and i note down the points shared."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "do you follow any structured approach for requirement gathering, like interviews, workshops, or questionnaires?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "not really. i mostly rely on what stakeholders share during meetings."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you created formal documents such as business requirement documents (brd) or functional requirement documents (frd)?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no, i haven\u0092t created those documents myself. i have only reviewed them occasionally."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "how do you ensure that the requirements you collect are clear and complete?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually confirm with stakeholders informally, but i don\u0092t follow a specific validation process."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "have you worked closely with technical teams to translate business requirements into technical specifications?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i have interacted with technical teams, but i usually pass on high-level information."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you explain any techniques you use for requirement prioritization?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i\u0092m not very familiar with prioritization techniques. i usually work on tasks as instructed."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. that gives me a good picture. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions. thank you for the discussion."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, meena. we appreciate your time and will get back to you regarding next steps."
+    }
+  ]
+}

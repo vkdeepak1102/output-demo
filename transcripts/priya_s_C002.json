@@ -1,0 +1,91 @@
+{
+  "candidate_id": "C002",
+  "candidate_name": "Priya S",
+  "role": "Data Analyst",
+  "transcript": [
+    {
+      "speaker": "candidate",
+      "text": ""
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good morning, priya. welcome to the interview for the data analyst role. how are you today?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "good morning. i\u0092m doing well, thank you. i\u0092m glad to be here."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "before we start, i\u0092d like to let you know that this interview will focus on your analytical background, sql knowledge, and how you communicate insights. let\u0092s begin with a brief introduction. can you tell me about your experience as a data analyst?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "sure. i have around two years of experience working as a data analyst. i mostly work with excel and sql to create reports and dashboards for internal teams."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s good to hear. let\u0092s talk about sql first. can you explain the difference between where and having clauses?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "where is used to filter rows, and having is used after group by to filter aggregated results."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "good. can you write a sql query to find duplicate records in a table?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i think we can use group by with count, but i\u0092m not fully confident about the exact query syntax."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "that\u0092s okay. can you explain how inner join works?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "inner join combines records from two tables when there is a matching value in both tables."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "let\u0092s go a bit deeper. suppose you have sales and customer tables. how would you find customers who have not made any purchases?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i think we can use a left join, but i\u0092m not very sure how to write that query correctly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "alright. now let\u0092s move on to communication. how do you usually present your analysis to business stakeholders?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i usually explain the numbers using charts, but sometimes i feel nervous and find it difficult to answer follow-up questions clearly."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "can you give an example of a time when you had to explain a complex insight to a non-technical audience?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "i try to simplify it, but honestly, i still struggle with presenting confidently."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you for being open about that. do you have any questions for us?"
+    },
+    {
+      "speaker": "candidate",
+      "text": "no questions at the moment. thank you for the opportunity."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "thank you, priya. it was nice speaking with you. we\u0092ll be in touch regarding the next steps."
+    },
+    {
+      "speaker": "candidate",
+      "text": "thank you. have a good day."
+    }
+  ]
+}

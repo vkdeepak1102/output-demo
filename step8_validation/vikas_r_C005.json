@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C005",
+  "candidate_name": "Vikas R",
+  "role": "Python Developer",
+  "step_8_analysis": [
+    {
+      "topic_asked": true,
+      "num_questions": 4,
+      "depth_level": "INTERMEDIATE",
+      "follow_up_present": true,
+      "validation_status": "SUPPORTED",
+      "justification": "The interviewer asked about OOP concepts, including inheritance and polymorphism, and the candidate's ability to design classes for real-world problems. The candidate struggled to explain inheritance with a practical example and admitted to not being very confident in designing complex class structures from scratch. This indicates that the candidate could not explain OOP concepts clearly, supporting the rejection reason.",
+      "rejection_reason": "could not explain oop concepts clearly"
+    }
+  ]
+}
