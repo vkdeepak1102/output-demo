@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C003",
+  "candidate_name": "Rahul M",
+  "role": {
+    "candidate_id": "C003",
+    "candidate_name": "Rahul M",
+    "role": "Full Stack Developer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 4,
+        "depth_level": "INTERMEDIATE",
+        "follow_up_present": false,
+        "validation_status": "PARTIALLY_SUPPORTED",
+        "justification": "The interviewer asked about React, state management, and components, which are fundamental topics. However, the depth of discussion was at an intermediate level, focusing on basic definitions and simple usage. There were no follow-up questions to probe deeper into advanced React concepts or complex implementations, which might be necessary to fully support the rejection reason of 'limited React knowledge'.",
+        "rejection_reason": "limited react knowledge"
+      },
+      {
+        "topic_asked": true,
+        "num_questions": 2,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "SUPPORTED",
+        "justification": "The interviewer asked about real-time or production-level projects and the candidate explicitly stated they had not worked on such projects, only demo applications and small practice projects. The follow-up question about a specific project further confirmed the lack of real project exposure.",
+        "rejection_reason": "no real project exposure"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 2,
+    "supported": 1,
+    "partially_supported": 1,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "limited react knowledge",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "panel_score": 7,
+      "evidence_quality": "INTERMEDIATE",
+      "justification": "The interviewer asked about React, state management, and components, which are fundamental topics. However, the depth of discussion was at an intermediate level, focusing on basic definitions and simple usage. There were no follow-up questions to probe deeper into advanced React concepts or complex implementations, which might be necessary to fully support the rejection reason of 'limited React knowledge'."
+    },
+    {
+      "rejection_reason": "no real project exposure",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "SUPPORTED",
+      "panel_score": 8.5,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked about real-time or production-level projects and the candidate explicitly stated they had not worked on such projects, only demo applications and small practice projects. The follow-up question about a specific project further confirmed the lack of real project exposure."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 7.8,
+    "efficiency_band": "MODERATE"
+  },
+  "final_audit_decision": "PARTIALLY_JUSTIFIED"
+}

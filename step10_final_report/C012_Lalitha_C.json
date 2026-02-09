@@ -1,0 +1,43 @@
+{
+  "candidate_id": "C012",
+  "candidate_name": "Lalitha C",
+  "role": {
+    "candidate_id": "C012",
+    "candidate_name": "Lalitha C",
+    "role": "Data Analyst",
+    "step_8_analysis": [
+      {
+        "topic_asked": false,
+        "num_questions": 0,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "NOT_SUPPORTED",
+        "justification": "L2 mentioned 'docker concepts not clear', but the L1 interview did not include any questions evaluating this topic.",
+        "rejection_reason": "docker concepts not clear"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 1,
+    "supported": 0,
+    "partially_supported": 0,
+    "not_supported": 1
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "docker concepts not clear",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "NOT_SUPPORTED",
+      "panel_score": 2,
+      "evidence_quality": "BASIC",
+      "justification": "L2 mentioned 'docker concepts not clear', but the L1 interview did not include any questions evaluating this topic."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 2.0,
+    "efficiency_band": "LOW"
+  },
+  "final_audit_decision": "NOT_JUSTIFIED"
+}

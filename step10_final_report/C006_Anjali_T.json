@@ -1,0 +1,77 @@
+{
+  "candidate_id": "C006",
+  "candidate_name": "Anjali T",
+  "role": {
+    "candidate_id": "C006",
+    "candidate_name": "Anjali T",
+    "role": "Backend Engineer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 3,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "PARTIALLY_SUPPORTED",
+        "justification": "The interviewer asked three questions related to REST API design, but the depth of the questions and answers was basic, focusing on definitions and surface-level explanations without delving into complex design principles or follow-up discussions.",
+        "rejection_reason": "weak understanding of rest api design"
+      },
+      {
+        "topic_asked": false,
+        "num_questions": 0,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "NOT_SUPPORTED",
+        "justification": "L2 mentioned 'error handling', but the L1 interview did not include any questions evaluating this topic.",
+        "rejection_reason": "error handling"
+      },
+      {
+        "topic_asked": false,
+        "num_questions": 0,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "NOT_SUPPORTED",
+        "justification": "L2 mentioned 'backend service architecture', but the L1 interview did not include any questions evaluating this topic.",
+        "rejection_reason": "backend service architecture"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 3,
+    "supported": 0,
+    "partially_supported": 1,
+    "not_supported": 2
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "weak understanding of rest api design",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "panel_score": 5.5,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked three questions related to REST API design, but the depth of the questions and answers was basic, focusing on definitions and surface-level explanations without delving into complex design principles or follow-up discussions."
+    },
+    {
+      "rejection_reason": "error handling",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "NOT_SUPPORTED",
+      "panel_score": 2,
+      "evidence_quality": "BASIC",
+      "justification": "L2 mentioned 'error handling', but the L1 interview did not include any questions evaluating this topic."
+    },
+    {
+      "rejection_reason": "backend service architecture",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "NOT_SUPPORTED",
+      "panel_score": 2,
+      "evidence_quality": "BASIC",
+      "justification": "L2 mentioned 'backend service architecture', but the L1 interview did not include any questions evaluating this topic."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 3.2,
+    "efficiency_band": "LOW"
+  },
+  "final_audit_decision": "NOT_JUSTIFIED"
+}

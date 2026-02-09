@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C001",
+  "candidate_name": "Arun Kumar",
+  "role": {
+    "candidate_id": "C001",
+    "candidate_name": "Arun Kumar",
+    "role": "Backend Engineer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 4,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "PARTIALLY_SUPPORTED",
+        "justification": "The interviewer asked about Python fundamentals, including data types, time complexity analysis, stack implementation, and the difference between lists and tuples. However, the depth of the questions was mostly basic, with no follow-up questions to probe deeper into the candidate's knowledge. The candidate's answers were also at a basic level, indicating a lack of advanced or even intermediate Python knowledge.",
+        "rejection_reason": "poor python knowledge"
+      },
+      {
+        "topic_asked": true,
+        "num_questions": 2,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "PARTIALLY_SUPPORTED",
+        "justification": "The interviewer asked about advanced data structures and stacks, but the depth of discussion was basic and did not include implementation or practical usage.",
+        "rejection_reason": "weak in data structures"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 2,
+    "supported": 0,
+    "partially_supported": 2,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "poor python knowledge",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "panel_score": 6,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked about Python fundamentals, including data types, time complexity analysis, stack implementation, and the difference between lists and tuples. However, the depth of the questions was mostly basic, with no follow-up questions to probe deeper into the candidate's knowledge. The candidate's answers were also at a basic level, indicating a lack of advanced or even intermediate Python knowledge."
+    },
+    {
+      "rejection_reason": "weak in data structures",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "panel_score": 5.5,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked about advanced data structures and stacks, but the depth of discussion was basic and did not include implementation or practical usage."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 5.8,
+    "efficiency_band": "MODERATE"
+  },
+  "final_audit_decision": "PARTIALLY_JUSTIFIED"
+}

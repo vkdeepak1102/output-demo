@@ -1,0 +1,43 @@
+{
+  "candidate_id": "C009",
+  "candidate_name": "Rohit S",
+  "role": {
+    "candidate_id": "C009",
+    "candidate_name": "Rohit S",
+    "role": "Software Engineer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 3,
+        "depth_level": "INTERMEDIATE",
+        "follow_up_present": false,
+        "validation_status": "SUPPORTED",
+        "justification": "The rejection reason is supported by the interview evidence. The candidate was asked three questions directly related to communication skills, and their answers indicated a lack of proactive communication, vague explanations, and minimal detail in updates.",
+        "rejection_reason": "communication skills poor"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 1,
+    "supported": 1,
+    "partially_supported": 0,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "communication skills poor",
+      "category": "COMMUNICATION_ISSUE",
+      "validation_status": "SUPPORTED",
+      "panel_score": 9.5,
+      "evidence_quality": "INTERMEDIATE",
+      "justification": "The rejection reason is supported by the interview evidence. The candidate was asked three questions directly related to communication skills, and their answers indicated a lack of proactive communication, vague explanations, and minimal detail in updates."
+    }
+  ],
+  "primary_rejection_driver": "COMMUNICATION_ISSUE",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 9.5,
+    "efficiency_band": "HIGH"
+  },
+  "final_audit_decision": "JUSTIFIED"
+}

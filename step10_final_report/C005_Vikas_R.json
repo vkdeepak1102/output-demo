@@ -1,0 +1,43 @@
+{
+  "candidate_id": "C005",
+  "candidate_name": "Vikas R",
+  "role": {
+    "candidate_id": "C005",
+    "candidate_name": "Vikas R",
+    "role": "Python Developer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 4,
+        "depth_level": "INTERMEDIATE",
+        "follow_up_present": true,
+        "validation_status": "SUPPORTED",
+        "justification": "The interviewer asked about OOP concepts, inheritance with a practical example, polymorphism, and designing classes for real-world problems. The candidate's responses indicated difficulty in explaining practical examples and designing complex class structures, which supports the rejection reason.",
+        "rejection_reason": "could not explain oop concepts clearly"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 1,
+    "supported": 1,
+    "partially_supported": 0,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "could not explain oop concepts clearly",
+      "category": "COMMUNICATION_ISSUE",
+      "validation_status": "SUPPORTED",
+      "panel_score": 10,
+      "evidence_quality": "INTERMEDIATE",
+      "justification": "The interviewer asked about OOP concepts, inheritance with a practical example, polymorphism, and designing classes for real-world problems. The candidate's responses indicated difficulty in explaining practical examples and designing complex class structures, which supports the rejection reason."
+    }
+  ],
+  "primary_rejection_driver": "COMMUNICATION_ISSUE",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 10.0,
+    "efficiency_band": "HIGH"
+  },
+  "final_audit_decision": "JUSTIFIED"
+}

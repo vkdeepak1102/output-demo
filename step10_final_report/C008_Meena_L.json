@@ -1,0 +1,43 @@
+{
+  "candidate_id": "C008",
+  "candidate_name": "Meena L",
+  "role": {
+    "candidate_id": "C008",
+    "candidate_name": "Meena L",
+    "role": "Business Analyst",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 5,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "SUPPORTED",
+        "justification": "The interviewer asked five questions directly related to requirement analysis. The depth of the questions was basic, focusing on techniques, processes, and interactions. The candidate's answers indicated a lack of structured approach, formal validation, and familiarity with prioritization techniques, which supports the rejection reason.",
+        "rejection_reason": "requirement analysis not strong"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 1,
+    "supported": 1,
+    "partially_supported": 0,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "requirement analysis not strong",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "SUPPORTED",
+      "panel_score": 9,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked five questions directly related to requirement analysis. The depth of the questions was basic, focusing on techniques, processes, and interactions. The candidate's answers indicated a lack of structured approach, formal validation, and familiarity with prioritization techniques, which supports the rejection reason."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 9.0,
+    "efficiency_band": "HIGH"
+  },
+  "final_audit_decision": "JUSTIFIED"
+}

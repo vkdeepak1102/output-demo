@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C007",
+  "candidate_name": "Karthik N",
+  "role": {
+    "candidate_id": "C007",
+    "candidate_name": "Karthik N",
+    "role": "Data Engineer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 4,
+        "depth_level": "INTERMEDIATE",
+        "follow_up_present": true,
+        "validation_status": "SUPPORTED",
+        "justification": "The interviewer asked multiple questions about Spark concepts, including performance improvements, transformations vs. actions, practical usage, and optimization scenarios. The candidate's answers indicated a lack of clear understanding and practical experience, which supports the rejection reason.",
+        "rejection_reason": "spark concepts unclear"
+      },
+      {
+        "topic_asked": true,
+        "num_questions": 2,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "PARTIALLY_SUPPORTED",
+        "justification": "The interviewer asked about the candidate's comfort with complex Python logic and their experience with Python libraries like pandas and PySpark. The candidate admitted to struggling with advanced Python concepts and having limited experience with PySpark. However, the depth of the questions was basic, and there were no follow-up questions to delve deeper into the candidate's Python skills.",
+        "rejection_reason": "weak python"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 2,
+    "supported": 1,
+    "partially_supported": 1,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "spark concepts unclear",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "SUPPORTED",
+      "panel_score": 10,
+      "evidence_quality": "INTERMEDIATE",
+      "justification": "The interviewer asked multiple questions about Spark concepts, including performance improvements, transformations vs. actions, practical usage, and optimization scenarios. The candidate's answers indicated a lack of clear understanding and practical experience, which supports the rejection reason."
+    },
+    {
+      "rejection_reason": "weak python",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "panel_score": 5.5,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked about the candidate's comfort with complex Python logic and their experience with Python libraries like pandas and PySpark. The candidate admitted to struggling with advanced Python concepts and having limited experience with PySpark. However, the depth of the questions was basic, and there were no follow-up questions to delve deeper into the candidate's Python skills."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 7.8,
+    "efficiency_band": "MODERATE"
+  },
+  "final_audit_decision": "PARTIALLY_JUSTIFIED"
+}

@@ -1,0 +1,14 @@
+-----------Panel Efficiency Score----------
+| Validation Status   | Panel Score |
+| ------------------- | ----------- |
+| SUPPORTED           | **8–10**    |
+| PARTIALLY_SUPPORTED | **5–7**     |
+| NOT_SUPPORTED       | **1–4**     |
+
+example = (9 + 3) / 2 = 6.0
+
+| Average Score | Band     |
+| ------------- | -------- |
+| 8.0 – 10.0    | HIGH     |
+| 5.0 – 7.9     | MODERATE |
+| < 5.0         | LOW      |

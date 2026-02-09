@@ -1,0 +1,43 @@
+{
+  "candidate_id": "C004",
+  "candidate_name": "Sneha P",
+  "role": {
+    "candidate_id": "C004",
+    "candidate_name": "Sneha P",
+    "role": "E-commerce Analyst",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 3,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "SUPPORTED",
+        "justification": "The interviewer asked three questions directly related to e-commerce experience. The depth of the questions was basic, focusing on definitions and familiarity with e-commerce metrics. The candidate's answers indicated a lack of direct experience with e-commerce platforms, metrics, and analysis, which supports the rejection reason.",
+        "rejection_reason": "less experience in e-commerce domain"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 1,
+    "supported": 1,
+    "partially_supported": 0,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "less experience in e-commerce domain",
+      "category": "NON_SKILL_FACTOR",
+      "validation_status": "SUPPORTED",
+      "panel_score": 8.5,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked three questions directly related to e-commerce experience. The depth of the questions was basic, focusing on definitions and familiarity with e-commerce metrics. The candidate's answers indicated a lack of direct experience with e-commerce platforms, metrics, and analysis, which supports the rejection reason."
+    }
+  ],
+  "primary_rejection_driver": "NON_SKILL_FACTOR",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 8.5,
+    "efficiency_band": "HIGH"
+  },
+  "final_audit_decision": "JUSTIFIED"
+}

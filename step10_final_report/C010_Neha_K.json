@@ -1,0 +1,43 @@
+{
+  "candidate_id": "C010",
+  "candidate_name": "Neha K",
+  "role": {
+    "candidate_id": "C010",
+    "candidate_name": "Neha K",
+    "role": "Backend Engineer",
+    "step_8_analysis": [
+      {
+        "topic_asked": true,
+        "num_questions": 2,
+        "depth_level": "BASIC",
+        "follow_up_present": false,
+        "validation_status": "PARTIALLY_SUPPORTED",
+        "justification": "The interviewer asked about system design and database schema, but the candidate's responses indicated a lack of experience and depth in these areas. The questions were relevant but the depth was insufficient to fully support the rejection reason.",
+        "rejection_reason": "lacks system design understanding"
+      }
+    ]
+  },
+  "rejection_summary": {
+    "total_rejection_reasons": 1,
+    "supported": 0,
+    "partially_supported": 1,
+    "not_supported": 0
+  },
+  "rejection_breakdown": [
+    {
+      "rejection_reason": "lacks system design understanding",
+      "category": "TECHNICAL_SKILL_GAP",
+      "validation_status": "PARTIALLY_SUPPORTED",
+      "panel_score": 5.5,
+      "evidence_quality": "BASIC",
+      "justification": "The interviewer asked about system design and database schema, but the candidate's responses indicated a lack of experience and depth in these areas. The questions were relevant but the depth was insufficient to fully support the rejection reason."
+    }
+  ],
+  "primary_rejection_driver": "TECHNICAL_SKILL_GAP",
+  "secondary_rejection_drivers": [],
+  "panel_efficiency": {
+    "efficiency_score": 5.5,
+    "efficiency_band": "MODERATE"
+  },
+  "final_audit_decision": "PARTIALLY_JUSTIFIED"
+}
